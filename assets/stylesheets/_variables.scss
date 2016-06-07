@@ -12,8 +12,12 @@ $gray-lightest:				lighten( $gray-lighter, 15% );
 $gray-dark:					#4d4d4d;
 $pink:						#e99dca;
 $pink-dark:					#d73e98;
-$white:						#ffffff;
+$white:						#fff;
+$black:						#000;
 //-- colors:end --//
+
+$text-color:            $black;
+
 $brand-primary: $blue-sky;
 
 $navbar-default-color:             $white;
